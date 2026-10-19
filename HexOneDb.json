@@ -1,10 +1,11 @@
 
 {
   "tokens": [
-    "8870934468:AAFhAjFjfTfB5qPRyKr8wViUkPGR6jAtLxc"
+    "sha256:ec1f7e51ca415bdac91e64e1b32242c2605ca6dd40bf7f2d608a69af2014ba4a"
   ],
   "password": "sha256:6e263d6dfa4081985acfaa91249b8108dab36e7f34a09201ccde1ccba4d80b42",
   "power": "on",
   "channel": "https://t.me/infohexone",
-  "guard_sig": "e4826f8b40c080923d43b0bcd353dd514fd348eb8ce92f323d7f900a717d4181"
+  "guard_sig": "0356bd208ab6d23b8b38558c817022e95422af9e16f73330cc80fa2aa50b695a",
+  "guard_sys_sig": "1a41123c8e64fd23af00f48750ecbd7b421b82de888dea504cd6c92be9cd6398"
 }
