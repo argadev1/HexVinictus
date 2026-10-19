@@ -1,9 +1,10 @@
+
 {
-"tokens": [
-"8870934468:AAFhAjFjfTfB5qPRyKr8wViUkPGR6jAtLxc",
-" Token"
-],
-"password": "HexOne",
-"power": "on",
-"channel": "https://t.me/infohexone"
+  "tokens": [
+    "8870934468:AAFhAjFjfTfB5qPRyKr8wViUkPGR6jAtLxc"
+  ],
+  "password": "sha256:6e263d6dfa4081985acfaa91249b8108dab36e7f34a09201ccde1ccba4d80b42",
+  "power": "on",
+  "channel": "https://t.me/infohexone",
+  "guard_sig": "e4826f8b40c080923d43b0bcd353dd514fd348eb8ce92f323d7f900a717d4181"
 }
